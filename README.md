@@ -1,6 +1,6 @@
 # Fundamentos de Data Science
 
-Bem-vindo ao repositório **Fundamentos Data Science**!
+Bem-vindo ao repositório **Fundamentos em Data Science**!
 
 Este repositório foi criado com o objetivo de fornecer recursos e material de estudo para aqueles que estão interessados em aprofundar seus conhecimentos nos fundamentos da Ciência de Dados. Aqui, você encontrará uma variedade de conteúdos relacionados a conceitos essenciais, ferramentas e práticas utilizadas no campo da Data Science.
 
